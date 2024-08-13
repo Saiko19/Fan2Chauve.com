@@ -1,0 +1,56 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Up_Title {
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+.Who_The_Hell_Is_Chauve {
+    text-align: justify;
+    margin: 4px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+img {
+    height: 150px;
+    border-radius: 8px;
+}
+
+.credit {
+    text-align: center;
+}
+
+.title_sonic {
+    text-align: center;
+}
+
+.histoire {
+    text-align: center;
+}
+
+.all_réseaux {
+    text-align: center;
+}
+
+.body_index {
+    background-image: url(Chauve_IRL.jpg);
+    color: red;
+}
+
+.body_romance {
+    background-image: url(Chauve_IRL2.jpg);
+    color: red;
+}
+
+.body_reseaux {
+    background-image: url(Chauve_IRL3.jpg);
+}
